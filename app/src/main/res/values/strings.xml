@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Evaluacion2</string>
+    <string name="botonaproximacion">Sensor de Aproximacion</string>
+    <string name="botonhumedad"> Sensor de Humedad</string>
+    <string name="botonGPSyMaps">GPS y Maps</string>
+    <string name="botonbasededatos">Base de datos</string>
+    <string name="tvaproximacion">0</string>
+    <string name="botonmovimiento">Sensor Movimiento</string>
+    <string name="botonelementosseguiridad">Elementos De Seguridad</string>
+    <string name="crear_clientes">Crear Clientes</string>
+</resources>
